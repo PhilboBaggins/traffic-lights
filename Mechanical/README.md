@@ -4,6 +4,12 @@ Mechanical parts (case, spacer, lens) for traffic lights.
 
 <img src="v1/Traffic lights v1.png" width="50%" /><img src="v1/Traffic lights v1 - Cross section.png" width="50%" />
 
+## Manufacturing
+
+1. Build [Lens](Manufacturing/Lens.md)
+2. Build [Spacer](Manufacturing/Spacer.md)
+3. Build [Traffic light body](Manufacturing/Traffic%20light%20body.md)
+
 ## Design method
 
 The design was done in [Fusion 360](https://www.autodesk.com/products/fusion-360/personal) and then the following files were then exported:
