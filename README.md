@@ -8,10 +8,6 @@ TOOD: Add description
 
 The design was done in [Fusion 360](https://www.autodesk.com/products/fusion-360/personal) and then the following files were then exported:
 
-* v1/Individual parts/Lens.stl
-* v1/Individual parts/Spacer.dxf
-* v1/Individual parts/Spacer.stl
-* v1/Individual parts/Traffic light body.stl
 * v1/Traffic lights v1 - Cross section.png
 * v1/Traffic lights v1.f3d
 * v1/Traffic lights v1.fbx
