@@ -11,4 +11,4 @@ TOOD: Add description
 3. Build [Traffic light body](Mechanical/Manufacturing/Traffic%20light%20body.md)
 4. Build [PCB](PCB/Manufacturing.md)
 5. [Program firmware](Firmware/Programming%20firmware.md)
-6. [Assemble it all](Assembly%20instructions.md)
+6. [Assemble it all](Assembly/README.md)
