@@ -29,9 +29,11 @@ The design was done in [Fusion 360](https://www.autodesk.com/products/fusion-360
 * v1/Individual parts/Spacer.stl
 * v1/Individual parts/Traffic light body.stl
 
+Then [Lens.stl](v1/Individual%20parts/Lens.stl) was opened in [FreeCAD](https://www.freecadweb.org/) and exported as a [DXF file](v1/Individual%20parts/Lens.dxf).
+
 ## Licence
 
-Copyright © 2021 Phil Baldwin
+Copyright ï¿½ 2021 Phil Baldwin
 
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
