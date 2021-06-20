@@ -1,0 +1,137 @@
+{
+  "uuid": "0d382485ba5c7eb871e8485d6402b8c1",
+  "path": "Offline/Traffic light LED PCB",
+  "name": "Traffic light LED PCB",
+  "content": "",
+  "created_at": "2021-06-20 04:04:53",
+  "updated_at": "2021-06-20 22:16:26",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "cc07ef6e45ffca89399c67684df70a0a",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 1,
+        "fd11c9e744c44aeab6011e8bd4c3ea86": 25,
+        "6b4734eba1714e9a9bc44ea1445ea515": 25,
+        "62f9c876688c40dfb5e63f761de66bac": 2,
+        "7a046cf4b38c4fccae7253b92b37c0e4": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "WS2812B-B",
+          25,
+          "LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B",
+          "LED2,LED9,LED25,LED23,LED22,LED15,LED16,LED5,LED6,LED7,LED3,LED4,LED24,LED1,LED18,LED17,LED21,LED20,LED19,LED8,LED11,LED12,LED13,LED14,LED10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Worldsemi",
+            "BOM_Manufacturer Part": "WS2812B-B",
+            "BOM_Supplier Part": "C114586",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b492c7f663c44f8ab2afd723c35ea2a4",
+            "uuid": "6b4734eba1714e9a9bc44ea1445ea515"
+          }
+        ],
+        [
+          "1000u",
+          1,
+          "CAP-D10.0×F5.0",
+          "C26",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "986ca71d43e94c6f946f952ade660c20",
+            "uuid": "7a046cf4b38c4fccae7253b92b37c0e4"
+          }
+        ],
+        [
+          "XY350V-3.5-3P",
+          2,
+          "CONN-TH_XY350V-3.5-3P",
+          "J1,J2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C557655",
+            "BOM_Manufacturer": "--",
+            "BOM_Manufacturer Part": "XY350V-3.5-3P",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "52bfc7b1f0e5455eb9a45eced59dd80f",
+            "uuid": "62f9c876688c40dfb5e63f761de66bac"
+          }
+        ],
+        [
+          "560",
+          1,
+          "R0603",
+          "R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "0.1u",
+          25,
+          "C0603",
+          "C21,C20,C19,C18,C15,C17,C16,C8,C11,C12,C13,C7,C2,C3,C9,C10,C1,C4,C5,C6,C23,C24,C22,C25,C14",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
+          }
+        ]
+      ],
+      "updateTime": 1624132139,
+      "createTime": 1624126098,
+      "histories": [],
+      "created_at": "2021-06-20 04:08:18",
+      "updated_at": "2021-06-20 05:48:59"
+    },
+    {
+      "uuid": "00898498c06f20a3f27feb028d024bd4",
+      "puuid": "0d382485ba5c7eb871e8485d6402b8c1",
+      "title": "PCB_Traffic light LED PCB",
+      "filename": "PCB_Traffic light LED PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "986ca71d43e94c6f946f952ade660c20": 1,
+        "b492c7f663c44f8ab2afd723c35ea2a4": 25,
+        "52bfc7b1f0e5455eb9a45eced59dd80f": 2,
+        "1bf59dff03ec4233aa077dc7cf0e92a1": 1,
+        "f187d3c25f9f43a29b67d3cfa364ee78": 25
+      },
+      "BOM": [],
+      "updateTime": 1624191386,
+      "createTime": 1624126643,
+      "histories": [],
+      "created_at": "2021-06-20 04:17:23",
+      "updated_at": "2021-06-20 22:16:26"
+    }
+  ],
+  "sort": [],
+  "title": "Traffic light LED PCB",
+  "foldername": "Traffic light LED PCB",
+  "schfilename": "Traffic light LED PCB.json",
+  "schfilemtime": 1624132139469
+}
