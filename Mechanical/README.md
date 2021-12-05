@@ -29,7 +29,7 @@ The design was done in [Fusion 360](https://www.autodesk.com/products/fusion-360
 * v1/Individual parts/Spacer.stl
 * v1/Individual parts/Traffic light body.stl
 
-Then [Lens.stl](v1/Individual%20parts/Lens.stl) was opened in [FreeCAD](https://www.freecadweb.org/) and exported as a [DXF file](v1/Individual%20parts/Lens.dxf).
+[Lens.svg](v1/Individual parts/Lens.svg) was drawn in [Inkscape](https://www.freecadweb.org/) because the one exported from [FreeCAD](https://www.freecadweb.org/) didn't seem to work.
 
 ## Licence
 
