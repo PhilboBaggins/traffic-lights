@@ -2,9 +2,8 @@
 
 TODO: Description here .... talk about how how multiple lights can be stacked together
 
-## Assembly instructions
-
-TODO: Assembly instructions here
+* [Assembly instructions for single traffic light](./Single.md)
+* [Assembly instructions for a stack of traffic lights](./Stack.md)
 
 ## Licence
 
