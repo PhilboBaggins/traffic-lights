@@ -4,7 +4,7 @@
   "name": "Traffic light LED PCB",
   "content": "",
   "created_at": "2021-06-20 04:04:53",
-  "updated_at": "2022-01-30 07:19:52",
+  "updated_at": "2022-01-30 07:39:13",
   "stick": "",
   "documents": [
     {
@@ -115,18 +115,18 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
+        "986ca71d43e94c6f946f952ade660c20": 1,
         "b492c7f663c44f8ab2afd723c35ea2a4": 25,
         "772c45091ce2443b8a31db11a260424c": 2,
-        "986ca71d43e94c6f946f952ade660c20": 1,
         "1bf59dff03ec4233aa077dc7cf0e92a1": 1,
         "f187d3c25f9f43a29b67d3cfa364ee78": 25
       },
       "BOM": [],
-      "updateTime": 1643487592,
+      "updateTime": 1643488753,
       "createTime": 1624126643,
       "histories": [],
       "created_at": "2021-06-20 04:17:23",
-      "updated_at": "2022-01-30 07:19:52"
+      "updated_at": "2022-01-30 07:39:13"
     }
   ],
   "sort": [],
