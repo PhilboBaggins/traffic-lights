@@ -4,7 +4,7 @@
   "name": "Traffic light LED PCB",
   "content": "",
   "created_at": "2021-06-20 04:04:53",
-  "updated_at": "2021-06-20 22:16:26",
+  "updated_at": "2022-01-30 07:19:52",
   "stick": "",
   "documents": [
     {
@@ -18,8 +18,8 @@
         "bb009484ef804a24ac5d18c54b249586": 1,
         "fd11c9e744c44aeab6011e8bd4c3ea86": 25,
         "6b4734eba1714e9a9bc44ea1445ea515": 25,
-        "62f9c876688c40dfb5e63f761de66bac": 2,
-        "7a046cf4b38c4fccae7253b92b37c0e4": 1
+        "7a046cf4b38c4fccae7253b92b37c0e4": 1,
+        "4363de0a60264c67b49f98d683aa2c7d": 2
       },
       "BOM": [
         [
@@ -30,18 +30,16 @@
           "CustomPara"
         ],
         [
-          "WS2812B-B",
+          "0.1u",
           25,
-          "LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B",
-          "LED2,LED9,LED25,LED23,LED22,LED15,LED16,LED5,LED6,LED7,LED3,LED4,LED24,LED1,LED18,LED17,LED21,LED20,LED19,LED8,LED11,LED12,LED13,LED14,LED10",
+          "C0603",
+          "C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19,C20,C21,C22,C23,C24,C25",
           {
-            "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer": "Worldsemi",
-            "BOM_Manufacturer Part": "WS2812B-B",
-            "BOM_Supplier Part": "C114586",
-            "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "b492c7f663c44f8ab2afd723c35ea2a4",
-            "uuid": "6b4734eba1714e9a9bc44ea1445ea515"
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
+            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
           }
         ],
         [
@@ -58,18 +56,33 @@
           }
         ],
         [
-          "XY350V-3.5-3P",
+          "KF350-3.5-3P",
           2,
-          "CONN-TH_XY350V-3.5-3P",
+          "CONN-TH_3P-P3.50_KF350-3.5-3P",
           "J1,J2",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C557655",
-            "BOM_Manufacturer": "--",
-            "BOM_Manufacturer Part": "XY350V-3.5-3P",
+            "BOM_Supplier Part": "C474893",
+            "BOM_Manufacturer": "Cixi Kefa Elec",
+            "BOM_Manufacturer Part": "KF350-3.5-3P",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "52bfc7b1f0e5455eb9a45eced59dd80f",
-            "uuid": "62f9c876688c40dfb5e63f761de66bac"
+            "puuid": "772c45091ce2443b8a31db11a260424c",
+            "uuid": "4363de0a60264c67b49f98d683aa2c7d"
+          }
+        ],
+        [
+          "WS2812B-B",
+          25,
+          "LED-SMD_4P-L5.0-W5.0-TL_WS2812B-B",
+          "LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10,LED11,LED12,LED13,LED14,LED15,LED16,LED17,LED18,LED19,LED20,LED21,LED22,LED23,LED24,LED25",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Worldsemi",
+            "BOM_Manufacturer Part": "WS2812B-B",
+            "BOM_Supplier Part": "C114586",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b492c7f663c44f8ab2afd723c35ea2a4",
+            "uuid": "6b4734eba1714e9a9bc44ea1445ea515"
           }
         ],
         [
@@ -84,26 +97,13 @@
             "puuid": "1bf59dff03ec4233aa077dc7cf0e92a1",
             "uuid": "bb009484ef804a24ac5d18c54b249586"
           }
-        ],
-        [
-          "0.1u",
-          25,
-          "C0603",
-          "C21,C20,C19,C18,C15,C17,C16,C8,C11,C12,C13,C7,C2,C3,C9,C10,C1,C4,C5,C6,C23,C24,C22,C25,C14",
-          {
-            "BOM_Supplier Part": "",
-            "BOM_Supplier": "",
-            "BOM_Manufacturer Part": "",
-            "puuid": "f187d3c25f9f43a29b67d3cfa364ee78",
-            "uuid": "fd11c9e744c44aeab6011e8bd4c3ea86"
-          }
         ]
       ],
-      "updateTime": 1624132139,
+      "updateTime": 1643487042,
       "createTime": 1624126098,
       "histories": [],
       "created_at": "2021-06-20 04:08:18",
-      "updated_at": "2021-06-20 05:48:59"
+      "updated_at": "2022-01-30 07:10:42"
     },
     {
       "uuid": "00898498c06f20a3f27feb028d024bd4",
@@ -115,23 +115,23 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "986ca71d43e94c6f946f952ade660c20": 1,
         "b492c7f663c44f8ab2afd723c35ea2a4": 25,
-        "52bfc7b1f0e5455eb9a45eced59dd80f": 2,
+        "772c45091ce2443b8a31db11a260424c": 2,
+        "986ca71d43e94c6f946f952ade660c20": 1,
         "1bf59dff03ec4233aa077dc7cf0e92a1": 1,
         "f187d3c25f9f43a29b67d3cfa364ee78": 25
       },
       "BOM": [],
-      "updateTime": 1624191386,
+      "updateTime": 1643487592,
       "createTime": 1624126643,
       "histories": [],
       "created_at": "2021-06-20 04:17:23",
-      "updated_at": "2021-06-20 22:16:26"
+      "updated_at": "2022-01-30 07:19:52"
     }
   ],
   "sort": [],
   "title": "Traffic light LED PCB",
   "foldername": "Traffic light LED PCB",
   "schfilename": "Traffic light LED PCB.json",
-  "schfilemtime": 1624132139469
+  "schfilemtime": 1643487042779
 }
