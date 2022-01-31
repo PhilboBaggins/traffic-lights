@@ -31,6 +31,8 @@ The design was done in [Fusion 360](https://www.autodesk.com/products/fusion-360
 
 [Lens.svg](v1/Individual parts/Lens.svg) was drawn in [Inkscape](https://www.freecadweb.org/) because the one exported from [FreeCAD](https://www.freecadweb.org/) didn't seem to work.
 
+[Traffic light body Hollow.stl](v1/Individual parts/Traffic light body Hollow.stl) was made by loading [Traffic light body.stl](v1/Individual parts/Traffic light body.stl) in Chitubox and using it's "hollow" feature with the "wall thickness" setting set to 1.5mm.
+
 ## Licence
 
 Copyright � 2021 Phil Baldwin
